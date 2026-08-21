@@ -1,0 +1,15 @@
+{
+    "name": "us-labor-market-indicator-lookup",
+    "version": "0.1.0",
+    "type": "module",
+    "description": "Look up national US labor market indicators via the official Bureau of Labor Statistics public API.",
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {
+        "apify": "^3.2.6"
+    },
+    "scripts": {
+        "start": "node src/main.js"
+    }
+}
