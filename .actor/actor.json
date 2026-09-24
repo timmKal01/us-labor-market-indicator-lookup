@@ -1,7 +1,7 @@
 {
     "actorSpecification": 1,
     "name": "us-labor-market-indicator-lookup",
-    "title": "US Labor Market Indicator Lookup — BLS Data",
+    "title": "US Labor Data: Unemployment, CPI & Wages (BLS)",
     "description": "Look up national US labor market indicators (unemployment rate, CPI, average hourly earnings, labor force participation, job openings rate) over recent years via the official Bureau of Labor Statistics public API. For finance, macro, and policy research teams.",
     "version": "0.1",
     "meta": {
