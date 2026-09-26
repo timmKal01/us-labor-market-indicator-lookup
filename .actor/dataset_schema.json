@@ -1,0 +1,53 @@
+{
+    "actorSpecification": 1,
+    "fields": {},
+    "views": {
+        "overview": {
+            "title": "Overview",
+            "transformation": {
+                "fields": [
+                    "label",
+                    "latestValue",
+                    "unit",
+                    "latestPeriod",
+                    "yearOverYearChange",
+                    "yearOverYearPercentChange",
+                    "seriesId"
+                ]
+            },
+            "display": {
+                "component": "table",
+                "properties": {
+                    "label": {
+                        "label": "Indicator",
+                        "format": "text"
+                    },
+                    "latestValue": {
+                        "label": "Latest value",
+                        "format": "number"
+                    },
+                    "unit": {
+                        "label": "Unit",
+                        "format": "text"
+                    },
+                    "latestPeriod": {
+                        "label": "Period",
+                        "format": "text"
+                    },
+                    "yearOverYearChange": {
+                        "label": "Change vs a year ago",
+                        "format": "number"
+                    },
+                    "yearOverYearPercentChange": {
+                        "label": "% change vs a year ago",
+                        "format": "number"
+                    },
+                    "seriesId": {
+                        "label": "BLS series",
+                        "format": "text"
+                    }
+                }
+            }
+        }
+    }
+}
