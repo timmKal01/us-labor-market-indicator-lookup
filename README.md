@@ -64,5 +64,5 @@ charge whether you request 1 indicator or all 5.
 
 ## Related products
 
-- [Economic Indicator Lookup](https://github.com/timmKal01/economic-indicator-lookup) — the World Bank international-economics counterpart to this US-specific labor data
-- [US National Debt Tracker](https://github.com/timmKal01/us-national-debt-tracker) — daily US fiscal data from the same government-data family
+- [World Bank Data Lookup](https://apify.com/m_ctim/economic-indicator-lookup): the World Bank international-economics counterpart to this US-specific labor data
+- [US National Debt Tracker](https://apify.com/m_ctim/us-national-debt-tracker): daily US fiscal data from the same government-data family
